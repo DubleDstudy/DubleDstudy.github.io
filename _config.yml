@@ -14,7 +14,7 @@ subtitle: ""
 email: rvd619rey@naver.com
 name: cho dae young
 description: >
-  
+
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -72,7 +72,7 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: @daeyoung 
+    username: @daeyoung
     url: https://twitter.com/rvd619rey
     desc: Follow me on Twitter
     share: true
@@ -80,14 +80,14 @@ social:
   - name: Facebook
     icon: facebook
     username: @Daeyoung
-    url:https://www.facebook.com/profile.php?id=100001936955354&lst=100001936955354%3A100001936955354%3A1523802912
+    url: https://www.facebook.com/profile.php?id=100001936955354&lst=100001936955354%3A100001936955354%3A1523802912
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
     username: daeyoung
-    url:https://github.com/DubleDstudy
+    url: https://github.com/DubleDstudy
     desc: Fork me on GitHub
     share: false
 
