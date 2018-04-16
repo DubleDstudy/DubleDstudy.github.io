@@ -72,14 +72,14 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: @daeyoung
+    username: daeyoung
     url: https://twitter.com/rvd619rey
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: @Daeyoung
+    username: Daeyoung
     url: https://www.facebook.com/profile.php?id=100001936955354&lst=100001936955354%3A100001936955354%3A1523802912
     desc: Friend me on Facebook
     share: true
